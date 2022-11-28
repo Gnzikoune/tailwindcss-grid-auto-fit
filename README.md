@@ -1,12 +1,12 @@
 # Grid auto fit (grilles responsives automatique) avec Tailwind CSS
 
-Voici un plugin qui vous aidera à créer des grilles responsives 
-de manière automatique, sans utiliser le médias queries.
-Il est constituer par des propriétés css 'aut-fit' et 'grid-template-columns' afin de vous aider dans votre façon de développer
+Voici un plugin qui vous aidera à créer des grilles responsives de manière automatique, sans utiliser les médias queries.
+Il est constituer de propriétés css telles que 'auto-fit' et 'grid-template-columns' afin de vous aider au mieux dans la conceptions 
+de grilles responsives.
 
 ## Installation
 
-Vous pouvez l'installer dans un nouveau projet, ou un autre déjà exstant:
+Vous pouvez l'installer dans un nouveau projet, ou un autre déjà existant:
 
 ----------------------------------------------------------------
 
@@ -31,13 +31,13 @@ module.exports = {
 
 ### Usage 
 
-Utilisez les class 'grid-auto-fit' avec au préalable la classe 'grid'
+Utilisez les classes 'grid-auto-fit' avec au préalable la classe 'grid'
 afin de créer des grilles responsives.
 
 
 -------------------------------------------------------------------
 
-<section class="grid gap-2 grid-auto-fit">
+<section class="grid grid-auto-fit gap-2 ">
    <div class="p-6 bg-blue-400 rounded-md">
       Grille 1
    </div>
