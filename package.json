@@ -1,0 +1,17 @@
+{
+    "name": "@gnzikoune/tailwindcss-grid-auto-fit",
+    "version": "1.0.0",
+    "description": "Classes utilitaires Tailwind CSS pour créer des grilles responsives sans utiliser les médias queries, juste avec 'auto-fit.'",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gildas Nzikouné",
+    "license": "ISC",
+    "devDependencies": {
+        "tailwindcss": "^3.2.3"
+     },
+    "repository": "https://github.com/Gnzikoune/tailwindcss-grid-auto-fit",
+    "keywords": ["tailwind css", "grilles automatiques", "grilles responsives", "Layout, grilles responsives en Tailwind CSS", "Classes utilitaires pour grille en Tailwind CSS"]
+  }
+  
